@@ -1,2 +1,0 @@
-# StrahanDSI
-General Assembly
